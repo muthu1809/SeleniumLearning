@@ -1,7 +1,7 @@
 package com.payilagam.javabasics;
 
 public class Customer {
-	String name1 = "Muthu"; 
+	String name1 = "Ashok"; 
 	int id1 = 123; 
 	long loan1 = 5000; 
 	String name2 = "Joseph"; 
